@@ -20,7 +20,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Zoom**
 
-Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, Monitoramento, SRE, Azure, Containers, Docker, Docker Compose, .NET, ASP.NET Core, Java, Spring, Apache Camel, Node.js SQL Server, PostgreSQL, MySQL, Linux, CNCF, Cloud Native...**
+Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, Monitoramento, SRE, Containers, DevOps, Microsoft Azure, Application Insights, Azure Monitor, Log Analytics, Docker, Docker Compose, .NET, ASP.NET Core, Java, Spring, Apache Camel, Node.js SQL Server, PostgreSQL, MySQL, Linux, CNCF, Cloud Native...**
 
 Número de participantes: **86 pessoas (pico de audiência ao longo da live)**
 
