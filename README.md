@@ -34,13 +34,13 @@ Deixamos aqui nossos agradecimentos ao **Daniel Ginês** e à **Aline Martins** 
 
 ![Audiência](img/audiencia.png)
 
-![Renato e Diego palestrando](img/t-09.png)
+![Renato e Diego palestrando](img/b-05.png)
 
-![Renato e Diego palestrando](img/t-12.png)
+![Renato e Diego palestrando](img/b-10.png)
 
-![Renato e Diego palestrando](img/t-04.png)
+![Renato e Diego palestrando](img/b-13.png)
 
-![Renato e Diego palestrando](img/t-01.png)
+![Renato e Diego palestrando](img/b-14.png)
 
 ![Banner](img/banner.jpg)
 
